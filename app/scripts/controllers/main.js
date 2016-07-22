@@ -14,6 +14,7 @@ angular.module('angularAppApp')
         $(".dropdown-button").dropdown();
     });
 
+    this.appName = "Hello =)";
   	$scope.app = 'Hello word';
     $scope.message = 'Lorem ipsum dolor sit amet.';
 
